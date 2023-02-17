@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "1030552039811",
+    "project_id": "echain-f6783",
+    "storage_bucket": "echain-f6783.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1030552039811:android:6241aa2eb18a559b1906b6",
+        "android_client_info": {
+          "package_name": "com.chainsys.echain"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1030552039811-aaivo7igspfv7668kl6e530eq5cpdt2s.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCG6RMmV0W6pDNksFgjEUCt9v-1Ya2YC18"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1030552039811-aaivo7igspfv7668kl6e530eq5cpdt2s.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "1030552039811-b54ghc936mnsue09b8lkjapmtid5n7c9.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.chainsys.echain"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">e.chain</string>
+    <!-- <string name="default_notification_channel_id" translatable="false">echain-channel-notification</string> -->
+</resources>

@@ -1,0 +1,41 @@
+module.exports = {
+    actionItems: [
+        { label: 'Time sheet', value: 'TIMESHEET', color: '#f1efff',text:'#7666fe'},
+        { label: 'Leave', value: 'LEAVE', color: '#eaeaea',text:'#969696' },
+        { label: 'Travel', value: 'TRAVEL', color: '#eaeaea',text:'#969696' },
+    ],
+    hours:[
+        { label: '0', value: 0, color: '#eaeaea',text:'#969696'},
+        { label: '1', value: 1, color: '#eaeaea',text:'#969696'},
+        { label: '2', value: 2, color: '#eaeaea',text:'#969696' },
+        { label: '3', value: 3, color: '#eaeaea',text:'#969696' },
+        { label: '4', value: 4, color: '#eaeaea',text:'#969696'},
+        { label: '5', value: 5, color: '#eaeaea',text:'#969696' },
+        { label: '6', value: 6, color: '#eaeaea',text:'#969696' },
+        { label: '7', value: 7, color: '#eaeaea',text:'#969696'},
+        { label: '8', value: 8, color: '#eaeaea',text:'#969696' },
+        { label: '9', value: 9, color: '#eaeaea',text:'#969696' },
+        { label: '10', value: 10, color: '#eaeaea',text:'#969696'},
+        { label: '11', value: 11, color: '#eaeaea',text:'#969696' },
+        { label: '12', value: 12, color: '#eaeaea',text:'#969696' },
+        { label: '13', value: 13, color: '#eaeaea',text:'#969696'},
+        { label: '14', value: 14, color: '#eaeaea',text:'#969696' },
+        { label: '15', value: 15, color: '#eaeaea',text:'#969696' },
+        { label: '16', value: 16, color: '#eaeaea',text:'#969696' },
+    ],
+    mins:[
+        { label: '00', value: 00, color: '#eaeaea',text:'#969696'},
+        { label: '05', value: 05, color: '#eaeaea',text:'#969696' },
+        { label: '10', value: 10, color: '#eaeaea',text:'#969696' },
+        { label: '15', value: 15, color: '#eaeaea',text:'#969696'},
+        { label: '20', value: 20, color: '#eaeaea',text:'#969696' },
+        { label: '25', value: 25, color: '#eaeaea',text:'#969696' },
+        { label: '30', value: 30, color: '#eaeaea',text:'#969696'},
+        { label: '35', value: 35, color: '#eaeaea',text:'#969696' },
+        { label: '40', value: 40, color: '#eaeaea',text:'#969696' },
+        { label: '45', value: 45, color: '#eaeaea',text:'#969696'},
+        { label: '50', value: 50, color: '#eaeaea',text:'#969696' },
+        { label: '55', value: 55, color: '#eaeaea',text:'#969696' },
+        
+    ]
+}
